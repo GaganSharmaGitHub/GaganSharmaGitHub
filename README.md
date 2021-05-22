@@ -46,7 +46,7 @@
 
 <p align="center">
 <a href="https://github.com/GaganSharmaGitHub">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GaganSharmaGitHub&layout=compact&hide=html&langs_count=8&theme=algolia&hide_border=true"/>&nbsp;
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GaganSharmaGitHub&layout=compact&hide=python&langs_count=8&theme=algolia&hide_border=true"/>&nbsp;
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GaganSharmaGitHub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=en&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaganSharmaGitHub&theme=algolia&hide_border=true" alt="streak-GaganSharmaGitHub" />
 </a>
