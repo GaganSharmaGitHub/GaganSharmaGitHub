@@ -8,10 +8,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Information Technology at GGSIPU.\
 💡 &nbsp;I like to make cool stuff that people love to use. \
 📖 &nbsp;I like reading about history and culture of different places. \
-🌱 &nbsp;My goal in 2020, is to learn more about Systems Design, Data Structures, Machine Learning and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email! I'll try to respond as soon as I can.
 
@@ -22,6 +20,7 @@
 ### 🛠 &nbsp;Languages and Tools
 
 ![Java](https://img.shields.io/badge/-Java-FF6C37?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-FF6C37?style=flat-square&logo=sql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/-Dart-7FD5EA?style=flat-square&logo=dart&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-7FD5EA?style=flat-square&logo=flutter&logoColor=black)
@@ -36,7 +35,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)  
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
