@@ -53,7 +53,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://sharma-gagan-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Web-3423A6?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/gagan-sharma3103"><img src="https://img.shields.io/badge/-Gagan%20Sharma-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;
 <a href="gagan3103sharma2000@gmail.com"><img src="https://img.shields.io/badge/-gagan3103sharma2000@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://twitter.com/NevermindGags" target="_blank"><img src="https://img.shields.io/twitter/follow/NevermindGags?logo=twitter&style=for-the-badge" alt="twitter-GaganSharmaGitHub" /></a>&nbsp;
