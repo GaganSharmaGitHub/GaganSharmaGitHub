@@ -5,14 +5,6 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-💡 &nbsp;I like to make cool stuff that people love to use. \
-📖 &nbsp;I like reading about history and culture of different places. \
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email! I'll try to respond as soon as I can.
-
 ---
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
